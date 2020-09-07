@@ -1,0 +1,18 @@
+Version 1:
+The roots are the real and float
+
+VERSION 1.1:
+1.ADDED
+  Roots can be imaginary
+
+VERSION 1.2:
+1.ADDED 
+  Roots are equal
+
+VERSION 1.3:
+1.ADDED
+   Zero Error
+  
+VERSION 1.4:
+ Final Version with no errors and bugs and added all features wanted by customer
+
